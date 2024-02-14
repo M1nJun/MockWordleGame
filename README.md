@@ -1,4 +1,4 @@
-This is a Word Game that is very similar to the popular Wordle game.
+This is a Word Game that is very similar to the popular Wordle game. I used the Java language.
 
 Here is how to game goes:
 
